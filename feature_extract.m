@@ -1,6 +1,6 @@
 function feat = feature_extract(im2color)
 %im2color =  imread('00001.jpg');
-addpath(genpath('lbp'));
+%addpath(genpath('lbp'));
 %------------------------------------------------
 % Feature Computation
 %-------------------------------------------------
